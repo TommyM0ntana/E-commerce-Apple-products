@@ -60,7 +60,7 @@ Enter the following into your terminal ``` git@github.com:TommyM0ntana/apple_clo
 
 ## Live Demo
 
-[The App]()
+[The App](https://raw.githack.com/TommyM0ntana/E-commerce-Apple-products/master/index.html)
 
 ## 🤝 Contributing
 
