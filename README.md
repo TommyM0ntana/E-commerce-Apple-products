@@ -1,6 +1,6 @@
 # E-commerce Apple Products
 
-This project consists of building an HTML CSS  web page that matches whit the e-commerce industry
+
 
 
 ## Main Page whit Navbar
